@@ -467,8 +467,11 @@ h1, h2, h3, h4, h5, h6 {
   opacity: .06;
 }
 .page-2 h2.series-title {
-  color: rgba(200,200,200,0.1);
+  color: rgba(200,200,200,0.5);
   font-size: 10rem;
+}
+.parallax-image {
+  box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
 }
 
 a {
