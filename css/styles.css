@@ -472,5 +472,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  color: rgba(123,123,54,.9);
+  color: rgba(153,153,58,.9);
+}
+
+.button,
+.button.actionButton {
+  background: none;
+  box-shadow: none;
+}
+
+.button:hover,
+.button.actionButton:hover {
+  background: none;
 }
